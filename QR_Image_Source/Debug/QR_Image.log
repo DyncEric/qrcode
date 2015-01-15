@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/1/15 23:05:26。
+     1>项目“E:\BaiduYunDownload\QR_Image_Source\QR_Image_Source - 副本\QR_Image.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         H:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\QR_Image.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"H:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\QR_Image.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\QR_Image.lib" /MACHINE:X86 /SAFESEH .\Debug\QR_Image.res
+         .\Debug\BottomView.obj
+         .\Debug\ImageView.obj
+         .\Debug\MainFrm.obj
+         .\Debug\QR_Encode.obj
+         .\Debug\QR_Image.obj
+         .\Debug\RightView.obj
+         .\Debug\StdAfx.obj
+         QR_Image.vcxproj -> E:\BaiduYunDownload\QR_Image_Source\QR_Image_Source - 副本\.\Debug\QR_Image.exe
+       BscMake:
+         H:\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o".\Debug\QR_Image.bsc" .\Debug\BottomView.sbr .\Debug\ImageView.sbr .\Debug\MainFrm.sbr .\Debug\QR_Encode.sbr .\Debug\QR_Image.sbr .\Debug\RightView.sbr .\Debug\StdAfx.sbr
+     1>已完成生成项目“E:\BaiduYunDownload\QR_Image_Source\QR_Image_Source - 副本\QR_Image.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.43
